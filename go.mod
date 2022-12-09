@@ -9,7 +9,7 @@ require (
 	github.com/spf13/cobra v1.5.0
 	github.com/tyler-smith/go-bip39 v1.1.0
 	github.com/umbracle/ethgo v0.1.3
-	github.com/xh3b4sd/tracer v0.5.1
+	github.com/xh3b4sd/tracer v0.6.0
 )
 
 require (
